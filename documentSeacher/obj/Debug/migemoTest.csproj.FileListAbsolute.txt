@@ -1,0 +1,17 @@
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\migemo.dll
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\migemoTest.exe.config
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\migemoTest.exe
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\migemoTest.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.csprojAssemblyReference.cache
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.Properties.Resources.resources
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.csproj.GenerateResource.cache
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.csproj.CoreCompileInputs.cache
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.exe
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\dict\cp932\han2zen.dat
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\dict\cp932\hira2kata.dat
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\dict\cp932\migemo-dict
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\dict\cp932\roma2hira.dat
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\bin\Debug\dict\cp932\zen2han.dat
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.UI.MainForm.resources
+C:\Users\aksh0\OneDrive\デスクトップ\migemoTest\migemoTest\obj\Debug\migemoTest.UI.CandidateForm.resources
